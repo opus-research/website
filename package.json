@@ -1,0 +1,17 @@
+{
+  "name": "Opus Website",
+  "version": "1.0.0",
+  "description": "Site do grupo de pesquisa Opus Research ",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Caio Barbosa e Anderson Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.3",
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
+  }
+}
