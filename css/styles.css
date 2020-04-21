@@ -171,6 +171,16 @@ textarea{
 	background: #77c4d3;
     color: #fff;
 }
+
+.personal-icons:hover{
+	color: #317256;
+}
+
+.personal-icons{
+	color: #52bf90;
+}
+
+
 .navbar .navbar-nav.navbar-social{
 	margin-left: 20px;
 	flex-direction: row;
@@ -433,7 +443,7 @@ main.main{
 	color: #daede2;
 }
 .recent-post .card a{
-	color: #daede2;	
+	color: #daede2;
 }
 .recent-post .card a:hover,
 .recent-post .card a:focus{
@@ -448,10 +458,19 @@ main.main{
 }
 .recent-post .card-title{
 	margin-bottom: .3em;
+	color: #292b2c
 }
 .recent-post .card-title h5{
 	font-size: 1.2em;
+	color: #292b2c
 }
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
 .recent-post .row{
 	margin-bottom: 10px;
 }
@@ -459,7 +478,7 @@ main.main{
 	padding-right: 5px;
 }
 .recent-post .row .col-right{
-	padding-left: 5px; 
+	padding-left: 5px;
 }
 
 @media (max-width: 768px) {
@@ -473,7 +492,7 @@ main.main{
 		padding-right: 15px;
 	}
 	.recent-post .row .col-right{
-		padding-left: 15px; 
+		padding-left: 15px;
 	}
 }
 @media (max-width: 576px) {
@@ -906,7 +925,7 @@ main.main{
 	list-style-position: inside;
 	padding: 0;
 }
-.main-post .h1, .main-post .h2, .main-post .h3, .main-post .h4, .main-post .h5, .main-post .h6, 
+.main-post .h1, .main-post .h2, .main-post .h3, .main-post .h4, .main-post .h5, .main-post .h6,
 .main-post h1, .main-post h2, .main-post h3, .main-post h4, .main-post h5, .main-post h6{
 	padding-top: .8em;
 	margin-bottom: .5em;
