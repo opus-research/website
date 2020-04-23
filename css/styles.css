@@ -7,10 +7,10 @@ body, html{
 }
 
 a{
-	color: #77c4d3;
+	color: #139042;
 }
 a:hover, a:focus, a:active{
-	color: #77c4d3;
+	color: #139042;
 }
 
 textarea{
@@ -57,7 +57,7 @@ textarea{
 }
 .alert-primary{
 	background: #bbe1e9;
-	border-color: #77c4d3;
+	border-color: #139042;
 	color: #272a36;
 }
 .alert-secondary{
@@ -213,11 +213,11 @@ textarea{
 .navbar .dropdown-item:focus,
 .navbar .dropdown-item:hover{
 	background: #272a36;
-	color: #77c4d3;
+	color: #139042;
 }
 .navbar .dropdown-item.active,
 .navbar .dropdown-item:active{
-	background: #77c4d3;
+	background: #139042;
 	color: #fff;
 }
 
@@ -315,7 +315,7 @@ textarea{
 }
 .nav-footer.text-right li a:hover,
 .nav-footer.text-right li a:active{
-	color: #77c4d3;
+	color: #139042;
 }
 
 @media (max-width: 576px) {
@@ -546,8 +546,8 @@ main.main{
 	font-size: .8em;
 }
 .btn-primary, .badge-primary{
-	border-color: #77c4d3;
-	background: #77c4d3;
+	border-color: #139042;
+	background: #139042;
 }
 .btn-primary:hover,
 .btn-primary:focus{
@@ -600,7 +600,7 @@ main.main{
 	background: #282b37;
 }
 .btn-link{
-	color: #77c4d3;
+	color: #139042;
 }
 .btn-link:hover,
 .btn-link:focus{
@@ -608,8 +608,8 @@ main.main{
 }
 
 .btn-outline-primary{
-	border-color: #77c4d3;
-	color: #77c4d3;
+	border-color: #139042;
+	color: #139042;
 }
 .btn-outline-primary:hover,
 .btn-outline-primary:focus{
@@ -664,7 +664,7 @@ main.main{
 }
 
 .text-primary{
-	color: #77c4d3 !important;
+	color: #139042 !important;
 }
 .text-secondary{
 	color: #4b4d57 !important;
@@ -683,7 +683,7 @@ main.main{
 }
 
 .bg-primary{
-	background-color: #77c4d3 !important;
+	background-color: #139042 !important;
 }
 .bg-secondary{
 	background-color: #4b4d57 !important;
@@ -703,16 +703,16 @@ main.main{
 
 
 .page-link{
-	color: #77c4d3;
+	color: #139042;
 
 	-webkit-border-radius: 0 !important;
 	-moz-border-radius: 0 !important;
 	border-radius: 0 !important;
 }
 .page-item.active .page-link{
-	background: #77c4d3;
+	background: #139042;
 	color: #daede2;
-	border-color: #77c4d3;
+	border-color: #139042;
 }
 .page-item.disabled .page-link{
 	color: #404556;
@@ -1120,7 +1120,7 @@ main.main{
 	display: inline-block;
     font-size: 1em;
     text-transform: uppercase;
-    color: #77c4d3;
+    color: #139042;
 }
 .post-comments .media .media-heading .time{
 	color: #97989b;
@@ -1218,7 +1218,7 @@ main.main{
 }
 .social-links li a:hover,
 .social-links li a:focus{
-	color: #77c4d3;
+	color: #139042;
 }
 
 @media (max-width: 768px) {
@@ -1244,7 +1244,7 @@ main.main{
 	background: #414656;
 }
 .additional-info h5{
-	color: #77c4d3;
+	color: #139042;
 }
 .additional-info .row{
 	margin-right: -5px;
